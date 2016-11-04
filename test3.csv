@@ -1,0 +1,2 @@
+Date,Type,SubType,Txn Type, Payment Type,Merchant/Receiver/Sender,Category,Bank Name,Account Id,Account Type,Credit,Debit,Balance,Outstanding,Available Limit,Notes,Reimbursable,Reimbursed
+2016/Jun/28 09:44:41,debit-transaction,expense,cash-spend,cash,"Auto",Transport,Cash Spend,cash,cash,0.0,120.0,0.0,0.0,0.0,"null",false,false

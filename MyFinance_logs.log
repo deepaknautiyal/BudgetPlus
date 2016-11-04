@@ -1,0 +1,233 @@
+2016-07-25 18:51:45,989 - INFO - Database connected
+2016-07-25 18:51:45,996 - INFO - Table created
+2016-07-25 18:51:45,997 - INFO - insert_expenses
+2016-07-25 18:51:45,997 - INFO - Total rows being inserted - 1124
+2016-07-25 19:15:10,248 - INFO - Database connected
+2016-07-25 19:15:10,254 - INFO - Table created
+2016-07-25 19:15:10,254 - INFO - insert_expenses
+2016-07-25 19:15:10,254 - INFO - Total rows being inserted - 1124
+2016-07-25 19:15:37,299 - INFO - Database connected
+2016-07-25 19:15:37,308 - INFO - Table created
+2016-07-25 19:15:37,308 - INFO - insert_expenses
+2016-07-25 19:15:37,308 - INFO - Total rows being inserted - 1124
+2016-07-25 19:15:37,584 - INFO - Number of records inserted 1124
+2016-07-26 19:15:06,211 - INFO - Database connected
+2016-07-26 19:15:06,220 - INFO - Table created
+2016-07-26 19:15:06,220 - INFO - insert_expenses
+2016-07-26 19:15:06,220 - INFO - Total rows in CSV: 1124
+2016-07-26 19:15:06,486 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:24:14,036 - INFO - System usage printed
+2016-07-26 19:24:14,036 - INFO - System usage printed
+2016-07-26 19:24:14,036 - INFO - System usage printed
+2016-07-26 19:24:14,051 - INFO - Detected switch" -i
+2016-07-26 19:24:14,051 - INFO - Detected switch" -i
+2016-07-26 19:24:14,051 - INFO - Detected switch" -i
+2016-07-26 19:24:14,051 - INFO - Detected switch" -u
+2016-07-26 19:24:14,051 - INFO - Detected switch" -u
+2016-07-26 19:24:14,051 - INFO - Detected switch" -u
+2016-07-26 19:24:14,051 - INFO - Detected switch" -t
+2016-07-26 19:24:14,051 - INFO - Detected switch" -t
+2016-07-26 19:24:14,051 - INFO - Detected switch" -t
+2016-07-26 19:24:14,051 - INFO - Config file set to: config_test.txt
+2016-07-26 19:24:14,051 - INFO - Config file set to: config_test.txt
+2016-07-26 19:24:14,051 - INFO - Config file set to: config_test.txt
+2016-07-26 19:24:14,059 - INFO - File read with 1124 values
+2016-07-26 19:24:14,059 - INFO - File read with 1124 values
+2016-07-26 19:24:14,059 - INFO - File read with 1124 values
+2016-07-26 19:24:14,062 - INFO - Database connected
+2016-07-26 19:24:14,062 - INFO - Database connected
+2016-07-26 19:24:14,062 - INFO - Database connected
+2016-07-26 19:24:14,069 - INFO - Table created
+2016-07-26 19:24:14,069 - INFO - Table created
+2016-07-26 19:24:14,069 - INFO - Table created
+2016-07-26 19:24:14,069 - INFO - Database initialized
+2016-07-26 19:24:14,069 - INFO - Database initialized
+2016-07-26 19:24:14,069 - INFO - Database initialized
+2016-07-26 19:24:14,069 - INFO - insert_expenses
+2016-07-26 19:24:14,069 - INFO - insert_expenses
+2016-07-26 19:24:14,069 - INFO - insert_expenses
+2016-07-26 19:24:14,069 - INFO - Total rows in File: 1124
+2016-07-26 19:24:14,069 - INFO - Total rows in File: 1124
+2016-07-26 19:24:14,069 - INFO - Total rows in File: 1124
+2016-07-26 19:24:14,369 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:24:14,369 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:24:14,369 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:29:01,369 - INFO - System usage printed
+2016-07-26 19:29:01,369 - INFO - System usage printed
+2016-07-26 19:29:01,369 - INFO - System usage printed
+2016-07-26 19:29:01,385 - INFO - Detected switch" -i
+2016-07-26 19:29:01,385 - INFO - Detected switch" -i
+2016-07-26 19:29:01,385 - INFO - Detected switch" -i
+2016-07-26 19:29:01,385 - INFO - Detected switch" -u
+2016-07-26 19:29:01,385 - INFO - Detected switch" -u
+2016-07-26 19:29:01,385 - INFO - Detected switch" -u
+2016-07-26 19:29:01,385 - INFO - Detected switch" -t
+2016-07-26 19:29:01,385 - INFO - Detected switch" -t
+2016-07-26 19:29:01,385 - INFO - Detected switch" -t
+2016-07-26 19:29:01,385 - INFO - Config file set to: config_test.txt
+2016-07-26 19:29:01,385 - INFO - Config file set to: config_test.txt
+2016-07-26 19:29:01,385 - INFO - Config file set to: config_test.txt
+2016-07-26 19:29:01,394 - INFO - File read with 1124 values
+2016-07-26 19:29:01,394 - INFO - File read with 1124 values
+2016-07-26 19:29:01,394 - INFO - File read with 1124 values
+2016-07-26 19:29:01,397 - INFO - Database connected
+2016-07-26 19:29:01,397 - INFO - Database connected
+2016-07-26 19:29:01,397 - INFO - Database connected
+2016-07-26 19:29:01,407 - INFO - Table created
+2016-07-26 19:29:01,407 - INFO - Table created
+2016-07-26 19:29:01,407 - INFO - Table created
+2016-07-26 19:29:01,408 - INFO - Database initialized
+2016-07-26 19:29:01,408 - INFO - Database initialized
+2016-07-26 19:29:01,408 - INFO - Database initialized
+2016-07-26 19:29:01,408 - INFO - insert_expenses
+2016-07-26 19:29:01,408 - INFO - insert_expenses
+2016-07-26 19:29:01,408 - INFO - insert_expenses
+2016-07-26 19:29:01,408 - INFO - Total rows in File: 1124
+2016-07-26 19:29:01,408 - INFO - Total rows in File: 1124
+2016-07-26 19:29:01,408 - INFO - Total rows in File: 1124
+2016-07-26 19:29:01,675 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:29:01,675 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:29:01,675 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:31:01,702 - INFO - System usage printed
+2016-07-26 19:31:01,702 - INFO - System usage printed
+2016-07-26 19:31:01,702 - INFO - System usage printed
+2016-07-26 19:31:01,716 - INFO - Detected switch" -i
+2016-07-26 19:31:01,716 - INFO - Detected switch" -i
+2016-07-26 19:31:01,716 - INFO - Detected switch" -i
+2016-07-26 19:31:01,716 - INFO - Detected switch" -u
+2016-07-26 19:31:01,716 - INFO - Detected switch" -u
+2016-07-26 19:31:01,716 - INFO - Detected switch" -u
+2016-07-26 19:31:01,717 - INFO - Detected switch" -t
+2016-07-26 19:31:01,717 - INFO - Detected switch" -t
+2016-07-26 19:31:01,717 - INFO - Detected switch" -t
+2016-07-26 19:31:01,717 - INFO - Config file set to: config_test.txt
+2016-07-26 19:31:01,717 - INFO - Config file set to: config_test.txt
+2016-07-26 19:31:01,717 - INFO - Config file set to: config_test.txt
+2016-07-26 19:31:01,781 - INFO - File read with 1124 values
+2016-07-26 19:31:01,781 - INFO - File read with 1124 values
+2016-07-26 19:31:01,781 - INFO - File read with 1124 values
+2016-07-26 19:31:01,789 - INFO - Database connected
+2016-07-26 19:31:01,789 - INFO - Database connected
+2016-07-26 19:31:01,789 - INFO - Database connected
+2016-07-26 19:31:01,797 - INFO - Table created
+2016-07-26 19:31:01,797 - INFO - Table created
+2016-07-26 19:31:01,797 - INFO - Table created
+2016-07-26 19:31:01,797 - INFO - Database initialized
+2016-07-26 19:31:01,797 - INFO - Database initialized
+2016-07-26 19:31:01,797 - INFO - Database initialized
+2016-07-26 19:31:01,797 - INFO - insert_expenses
+2016-07-26 19:31:01,797 - INFO - insert_expenses
+2016-07-26 19:31:01,797 - INFO - insert_expenses
+2016-07-26 19:31:01,797 - INFO - Total rows in File: 1124
+2016-07-26 19:31:01,797 - INFO - Total rows in File: 1124
+2016-07-26 19:31:01,797 - INFO - Total rows in File: 1124
+2016-07-26 19:31:02,205 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:31:02,205 - INFO - Number of records inserted in DB: 1124
+2016-07-26 19:31:02,205 - INFO - Number of records inserted in DB: 1124
+2016-07-28 09:38:27,100 - INFO - System usage printed
+2016-07-28 09:38:27,131 - INFO - Detected switch" -i
+2016-07-28 09:38:27,131 - INFO - Detected switch" -u
+2016-07-28 09:38:27,131 - INFO - Detected switch" -t
+2016-07-28 09:38:27,131 - INFO - Config file set to: config_test.txt
+2016-07-28 09:38:27,138 - INFO - File read with 1124 values
+2016-07-28 09:38:27,144 - INFO - Database connected
+2016-07-28 09:38:27,157 - INFO - Table created
+2016-07-28 09:38:27,158 - INFO - Database initialized
+2016-07-28 09:38:27,158 - INFO - insert_expenses
+2016-07-28 09:38:27,158 - INFO - Total rows in File: 1124
+2016-07-28 09:38:27,526 - INFO - Number of records inserted in DB: 1124
+2016-07-29 14:49:07,962 - INFO - System usage printed
+2016-07-29 14:49:07,983 - INFO - Detected switch" -i
+2016-07-29 14:49:07,984 - INFO - Detected switch" -u
+2016-07-29 14:49:07,984 - INFO - Detected switch" -t
+2016-07-29 14:49:07,984 - INFO - Config file set to: config_test.txt
+2016-07-29 14:49:07,998 - INFO - File read with 1124 values
+2016-07-29 14:49:08,006 - INFO - Database connected
+2016-07-29 14:49:08,018 - INFO - Table created
+2016-07-29 14:49:08,018 - INFO - Database initialized
+2016-07-29 14:49:08,019 - INFO - insert_expenses
+2016-07-29 14:49:08,019 - INFO - Total rows in data structure: 1124
+2016-07-29 14:50:28,627 - INFO - System usage printed
+2016-07-29 14:50:28,721 - INFO - Detected switch" -i
+2016-07-29 14:50:28,721 - INFO - Detected switch" -u
+2016-07-29 14:50:28,721 - INFO - Detected switch" -t
+2016-07-29 14:50:28,722 - INFO - Config file set to: config_test.txt
+2016-07-29 14:50:28,737 - INFO - File read with 1124 values
+2016-07-29 14:50:28,745 - INFO - Database connected
+2016-07-29 14:50:28,755 - INFO - Table created
+2016-07-29 14:50:28,756 - INFO - Database initialized
+2016-07-29 14:50:28,756 - INFO - insert_expenses
+2016-07-29 14:50:28,757 - INFO - Total rows in data structure: 1124
+2016-07-29 14:50:51,040 - INFO - System usage printed
+2016-07-29 14:50:51,055 - INFO - Detected switch" -i
+2016-07-29 14:50:51,055 - INFO - Detected switch" -u
+2016-07-29 14:50:51,055 - INFO - Detected switch" -t
+2016-07-29 14:50:51,056 - INFO - Config file set to: config_test.txt
+2016-07-29 14:50:51,081 - INFO - File read with 1124 values
+2016-07-29 14:50:51,087 - INFO - Database connected
+2016-07-29 14:50:51,097 - INFO - Table created
+2016-07-29 14:50:51,098 - INFO - Database initialized
+2016-07-29 14:50:51,098 - INFO - insert_expenses
+2016-07-29 14:50:51,098 - INFO - Total rows in data structure: 1124
+2016-07-29 14:51:03,219 - INFO - System usage printed
+2016-07-29 14:51:03,233 - INFO - Detected switch" -i
+2016-07-29 14:51:03,233 - INFO - Detected switch" -u
+2016-07-29 14:51:03,234 - INFO - Detected switch" -t
+2016-07-29 14:51:03,234 - INFO - Config file set to: config_test.txt
+2016-07-29 14:51:03,242 - INFO - File read with 1124 values
+2016-07-29 14:51:03,248 - INFO - Database connected
+2016-07-29 14:51:03,257 - INFO - Table created
+2016-07-29 14:51:03,257 - INFO - Database initialized
+2016-07-29 14:51:03,257 - INFO - insert_expenses
+2016-07-29 14:51:03,257 - INFO - Total rows in data structure: 1124
+2016-07-29 14:51:33,065 - INFO - System usage printed
+2016-07-29 14:51:33,078 - INFO - Detected switch" -i
+2016-07-29 14:51:33,078 - INFO - Detected switch" -u
+2016-07-29 14:51:33,078 - INFO - Detected switch" -t
+2016-07-29 14:51:33,079 - INFO - Config file set to: config_test.txt
+2016-07-29 14:51:33,093 - INFO - File read with 1124 values
+2016-07-29 14:51:33,097 - INFO - Database connected
+2016-07-29 14:51:33,103 - INFO - Table created
+2016-07-29 14:51:33,103 - INFO - Database initialized
+2016-07-29 14:51:33,103 - INFO - insert_expenses
+2016-07-29 14:51:33,104 - INFO - Total rows in data structure: 1124
+2016-07-29 14:51:33,498 - INFO - Number of records inserted in DB: 1124
+2016-07-29 15:28:38,167 - INFO - System usage printed
+2016-07-29 15:28:38,179 - INFO - Detected switch" -i
+2016-07-29 15:28:38,179 - INFO - Detected switch" -u
+2016-07-29 15:28:38,179 - INFO - Detected switch" -t
+2016-07-29 15:28:38,179 - INFO - Config file set to: config_test.txt
+2016-07-29 15:28:38,188 - INFO - File read with 1124 values
+2016-07-29 15:28:38,191 - INFO - Database connected
+2016-07-29 15:28:38,197 - INFO - Table created
+2016-07-29 15:28:38,197 - INFO - Database initialized
+2016-07-29 15:28:38,197 - INFO - insert_expenses
+2016-07-29 15:28:38,197 - INFO - Total rows in data structure: 1124
+2016-07-29 15:28:38,505 - INFO - Number of records inserted in DB: 1124
+2016-07-29 15:28:38,506 - INFO - File successfully inserted to DB
+2016-07-29 15:37:56,756 - INFO - System usage printed
+2016-07-29 15:37:56,768 - INFO - Detected switch" -i
+2016-07-29 15:37:56,768 - INFO - Detected switch" -u
+2016-07-29 15:37:56,769 - INFO - Detected switch" -t
+2016-07-29 15:37:56,769 - INFO - Config file set to: config_test.txt
+2016-07-29 15:37:56,776 - INFO - File read with 1124 values
+2016-07-29 15:37:56,780 - INFO - Database connected
+2016-07-29 15:37:56,793 - INFO - Table created
+2016-07-29 15:37:56,793 - INFO - Database initialized
+2016-07-29 15:37:56,793 - INFO - insert_expenses
+2016-07-29 15:37:56,793 - INFO - Total rows in data structure: 1124
+2016-07-29 15:37:57,203 - INFO - Number of records inserted in DB: 1124
+2016-07-29 15:37:57,203 - INFO - File successfully inserted to DB
+2016-07-29 15:39:32,710 - INFO - System usage printed
+2016-07-29 15:39:32,727 - INFO - Detected switch" -i
+2016-07-29 15:39:32,728 - INFO - Detected switch" -u
+2016-07-29 15:39:32,728 - INFO - Detected switch" -t
+2016-07-29 15:39:32,728 - INFO - Config file set to: config_test.txt
+2016-07-29 15:39:32,740 - INFO - File read with 1124 values
+2016-07-29 15:39:32,743 - INFO - Database connected
+2016-07-29 15:39:32,750 - INFO - Table created
+2016-07-29 15:39:32,750 - INFO - Database initialized
+2016-07-29 15:39:32,750 - INFO - insert_expenses
+2016-07-29 15:39:32,750 - INFO - Total rows in data structure: 1124
+2016-07-29 15:39:33,073 - INFO - Number of records inserted in DB: 1124
+2016-07-29 15:39:33,073 - INFO - File successfully inserted to DB

@@ -1,0 +1,2 @@
+database=financedb_test.db
+table=expnses_raw_test
