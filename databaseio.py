@@ -13,7 +13,7 @@ class BaseModel(Model):
 
 
 class Expense(BaseModel):
-    Date = DateTimeField()  # Date
+    Date = DateTimeField(formats='%d/%m/%Y')  # Date
     Month = CharField(max_length=255, default='January')  # Month
     Week = IntegerField(default=0)  # Week of the year
     Type = CharField(max_length=255, default=None)  # Type
@@ -68,18 +68,11 @@ class DatabaseIO(object):
         logger.info('Number of records retrieved = {}'.format(len(expenses)))
 
         for expense in expenses:
-            logger.info('Looping through expenses: {}'.format(count))
-            logger.info('Month: {}'.format(expense.Date))
+            date_object = datetime.datetime.strptime(expense.Date, '%Y/%b/%d %H:%M:%S')
+
+            query = Expense.update(Month=date_object.strftime('%B'), MadeBy=user, Transformed = 'Yes')
+            query.execute()
+
             count += 1
 
-            # if expense.Date.month == 1:
-            #     logger.info('Month: {}'.format(expense.Date.month))
-            # else:
-            #     logger.info('Unable to read month')
-            #
-            # expense.Month = expense.Date.month+''
-            # expense.MadeBy = user
-            # expense.Transformed = 'Yes'
-
-        #logger.info('Total rows transformed: {}'.format(count))
-
+        logger.info('Total rows transformed: {}'.format(count))
