@@ -61,14 +61,25 @@ class DatabaseIO(object):
         logger.info('Number of records inserted in DB: {}'.format(count))
 
     def transform(self, user):
+        logger.info('Inside Transform')
         count = 0
         expenses = Expense.select().where(Expense.Transformed == 'No')
 
+        logger.info('Number of records retrieved = {}'.format(len(expenses)))
+
         for expense in expenses:
-            expense.Month = expense.Date.month+''
-            expense.MadeBy = user
-            expense.Transformed = 'Yes'
+            logger.info('Looping through expenses: {}'.format(count))
+            logger.info('Month: {}'.format(expense.Date))
             count += 1
 
-        logger.info('Total rows transformed: {}'.format(count))
+            # if expense.Date.month == 1:
+            #     logger.info('Month: {}'.format(expense.Date.month))
+            # else:
+            #     logger.info('Unable to read month')
+            #
+            # expense.Month = expense.Date.month+''
+            # expense.MadeBy = user
+            # expense.Transformed = 'Yes'
+
+        #logger.info('Total rows transformed: {}'.format(count))
 
